@@ -1,0 +1,11 @@
+/RUNNING_PID
+/logs/
+/project/*-shim.sbt
+/project/project/
+/project/target/
+/target/
+.idea
+LICENSE
+activator
+activator.bat
+activator-launch-1.3.2.jar
